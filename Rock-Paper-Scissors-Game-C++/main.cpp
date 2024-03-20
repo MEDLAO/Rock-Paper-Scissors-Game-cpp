@@ -2,7 +2,7 @@
 //  main.cpp
 //  Rock-Paper-Scissors-Game-C++
 //
-//  Created by Sofiane Medhouny Laouina on 20/03/2024.
+//  Created by MEDLAO on 20/03/2024.
 //
 
 #include <iostream>
