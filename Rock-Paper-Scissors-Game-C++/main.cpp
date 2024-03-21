@@ -6,9 +6,20 @@
 //
 
 #include <iostream>
+#include <cstdlib>
+#include <ctime>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+#define ROCK 1
+#define PAPER 2
+#define SCISSORS 3
+
+using namespace std;
+
+int main(int argc, const char * argv[])
+{
+    // rock beats scissors
+    // scissors beats paper
+    // paper beats rock
+    
     return 0;
 }
