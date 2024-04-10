@@ -17,7 +17,7 @@ using namespace std;
 
 int main(int argc, const char * argv[])
 {
-    // rock beats scissors
+    // rock beats scissors Test 1
     // scissors beats paper
     // paper beats rock
     
