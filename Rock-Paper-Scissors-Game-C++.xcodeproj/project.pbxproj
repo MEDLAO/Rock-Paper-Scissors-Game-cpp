@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BFF8AB4B2BAB39A700386FC3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFF8AB4A2BAB39A700386FC3 /* main.cpp */; };
+		BFFC3BF92BC8361100B27824 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFFC3BF82BC8361100B27824 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		BFF8AB472BAB39A700386FC3 /* Rock-Paper-Scissors-Game-C++ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Rock-Paper-Scissors-Game-C++"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BFF8AB4A2BAB39A700386FC3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		BFFC3BF82BC8361100B27824 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		BFF8AB492BAB39A700386FC3 /* Rock-Paper-Scissors-Game-C++ */ = {
 			isa = PBXGroup;
 			children = (
-				BFF8AB4A2BAB39A700386FC3 /* main.cpp */,
+				BFFC3BF82BC8361100B27824 /* main.cpp */,
 			);
 			path = "Rock-Paper-Scissors-Game-C++";
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BFF8AB4B2BAB39A700386FC3 /* main.cpp in Sources */,
+				BFFC3BF92BC8361100B27824 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
