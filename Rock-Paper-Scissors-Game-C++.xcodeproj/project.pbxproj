@@ -42,6 +42,7 @@
 		BFF8AB3E2BAB39A700386FC3 = {
 			isa = PBXGroup;
 			children = (
+				BFFC3BFA2BC83A6700B27824 /* README.md */,
 				BFF8AB492BAB39A700386FC3 /* Rock-Paper-Scissors-Game-C++ */,
 				BFF8AB482BAB39A700386FC3 /* Products */,
 			);
@@ -58,7 +59,6 @@
 		BFF8AB492BAB39A700386FC3 /* Rock-Paper-Scissors-Game-C++ */ = {
 			isa = PBXGroup;
 			children = (
-				BFFC3BFA2BC83A6700B27824 /* README.md */,
 				BFFC3BF82BC8361100B27824 /* main.cpp */,
 			);
 			path = "Rock-Paper-Scissors-Game-C++";
