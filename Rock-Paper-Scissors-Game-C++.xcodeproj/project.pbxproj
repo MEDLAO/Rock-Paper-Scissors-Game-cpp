@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		BF0102F22BD305B0004DB6F7 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		BFF8AB472BAB39A700386FC3 /* Rock-Paper-Scissors-Game-C++ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Rock-Paper-Scissors-Game-C++"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFFC3BF82BC8361100B27824 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		BFFC3BFA2BC83A6700B27824 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -42,6 +43,7 @@
 		BFF8AB3E2BAB39A700386FC3 = {
 			isa = PBXGroup;
 			children = (
+				BF0102F22BD305B0004DB6F7 /* Media.xcassets */,
 				BFFC3BFA2BC83A6700B27824 /* README.md */,
 				BFF8AB492BAB39A700386FC3 /* Rock-Paper-Scissors-Game-C++ */,
 				BFF8AB482BAB39A700386FC3 /* Products */,
